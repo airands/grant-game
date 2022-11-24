@@ -1,6 +1,11 @@
 # grant-game
 20 Second Game
 
+### Show Local File Changes
+```bash
+git status
+```
+
 ### Pull Changes
 ```bash
 git pull
